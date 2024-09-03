@@ -8,3 +8,7 @@
 [ 'Trauma', 'Pediatrics', 'Genetics' ]
 ```
 * **Desafio proposto no curso da CodeCademy**
+
+## Tecnologia
+
+> JavaScript
